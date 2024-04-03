@@ -2,3 +2,15 @@ body {
   background-color: mintcream;
   font-family:Arial, Helvetica, sans-serif;
 }
+
+.solid {
+  border-style: solid;
+}
+
+.dotted {
+  border-style: dotted;
+}
+
+.none {
+  border-style: none;
+}
