@@ -1,10 +1,9 @@
 body {
-  background-color: mintcream;
-  font-family:Arial, Helvetica, sans-serif;
-  background-image: url("icecreamcone.png"); 
+  font-family: "Josefin Slab", sans-serif;
+  background-image: url("coffeebeans.jpg"); 
   text-align: center;
 }
 
 main {
-  background-color: rgba(255, 251, 246, .5);
+  background-color: rgba(160, 98, 62, .5);
 }
