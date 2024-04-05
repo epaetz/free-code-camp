@@ -1,9 +1,12 @@
 body {
   font-family: "Josefin Slab", sans-serif;
+  color: #E6D6D3;
   background-image: url("coffeebeans.jpg"); 
   text-align: center;
 }
 
 main {
   background-color: rgba(160, 98, 62, .5);
+  padding: 5px;
+  margin: 50px;
 }
