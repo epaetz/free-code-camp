@@ -10,3 +10,17 @@ main {
   padding: 5px;
   margin: 50px;
 }
+
+.menu {
+  display: inline-block;
+  justify-content: space-between;
+}
+
+.test {
+  justify-content: space-between;
+  display: inline-block;
+}
+
+.test p {
+  display: inline-block;
+}
